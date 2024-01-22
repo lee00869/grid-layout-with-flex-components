@@ -41,5 +41,6 @@ body {
   .emojis{
     display: grid;
     grid-template-columns: repeat(2, 420px);
+    grid-template-rows: 300px 350px;
     gap: 20px;
   }
