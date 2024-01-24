@@ -31,7 +31,8 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
-    align-self:stretch;
+    
+    margin-top: auto;
   }
   
   .icon {
@@ -40,7 +41,7 @@ body {
 
   .emojis{
     display: grid;
-    grid-template-columns: repeat(2, 420px);
-    grid-template-rows: 300px 350px;
+    grid-template-columns: repeat(2, 450px);
+    grid-template-rows: 320px 380px;
     gap: 20px;
   }
